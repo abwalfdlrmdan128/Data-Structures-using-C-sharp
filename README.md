@@ -1,7 +1,6 @@
 # Data Structure source code usign c#
 
-## This source code for 
-- C# and oop 
+## This source code for C# and oop 
 ---
 
 ### Topics
